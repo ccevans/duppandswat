@@ -1,0 +1,55 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+body {margin: 0; padding: 0;}
+.overall-section {float: left; width: 100%; height: auto; margin: 0px 0; padding: 0; font-size: 0; line-height: 0;}
+.header-section {float: left; width: 100%; height: auto; margin: 50px 0 0 0; padding: 0; font-family: "purista-web",sans-serif;}
+.main-section {float: left; width: 100%; height: auto; margin: 25px 0; padding: 0; font-family: "purista-web",sans-serif;}
+.main2-section {float: left; width: 100%; height: auto; margin: 10px 0; padding: 0; font-family: "purista-web",sans-serif;}
+
+.headerimage {float: left; width: 60%; margin: 0 20%;}
+.header-section h1 {color: #fff; font-size: 36px; line-height: 36px; text-align: center;}
+.header-section span {width: 100%; float: left; color: #fff; font-size: 14px; line-height: 16px; text-align: center; margin: 5px 0;}
+.main-section iframe.commercials {float: left; width: 60%; margin: 0 20%; height: 400px;}
+.comm-words {float: left; width: 60%; padding: 0 20%; text-align: center; font-size: 18px; line-height: 24px; color: #fff;}
+.comm-words2 {float: left; width: 60%; padding: 0 20%; font-size: 18px; line-height: 20px; color: #fff;}
+.insta-box {float: left; width: 60%; padding: 0 20%;}
+.comm-words2 form {margin: 20px 20%; width: 60%; float: left;}
+
+ul.partners {float: left; width: 30%; margin: 10px 35%; padding: 0;}
+ul.parnters li {float: left; width: 50%; margin: 0; padding: 0;}
+ul.partners li img {float: left; width: 48%; margin: 0 1%; height: auto;}
+
+.gradient {
+	background-color:rgba(129,6,179,1); 
+	background-image: linear-gradient(#8106b3, #06b3a9);
+	background-image:-webkit-gradient(linear, from(#8106b3), to(#06b3a9));
+	background-image:-webkit-linear-gradient(#8106b3, #06b3a9);
+	background-image:-moz-linear-gradient(#8106b3, #06b3a9);
+	background-image:-o-linear-gradient(#8106b3, #06b3a9);
+}
+
+@media screen and (max-width: 640px){
+	.overall-section {float: left; width: 100%; height: auto; margin: 0px 0; padding: 0; font-size: 0; line-height: 0;}
+	.header-section {float: left; width: 100%; height: auto; margin: 25px 0 0 0; padding: 0; font-family: "purista-web",sans-serif;}
+	.main-section {float: left; width: 100%; height: auto; margin: 15px 0; padding: 0; font-family: "purista-web",sans-serif;}
+	.main2-section {float: left; width: 100%; height: auto; margin: 10px 0; padding: 0; font-family: "purista-web",sans-serif;}
+
+	.headerimage {float: left; width: 60%; margin: 0 20%;}
+	.header-section h1 {color: #fff; font-size: 24px; line-height: 24px; text-align: center;}
+	.header-section span {width: 100%; float: left; color: #fff; font-size: 14px; line-height: 16px; text-align: center; margin: 5px 0;}
+	.main-section iframe.commercials {float: left; width: 90%; margin: 0 5%; height: 300px;}
+	.comm-words {float: left; width: 90%; padding: 0 5%; text-align: center; font-size: 16px; line-height: 22px; color: #fff;}
+	.comm-words2 {float: left; width: 90%; padding: 0 5%; font-size: 16px; line-height: 20px; color: #fff;}
+	.insta-box {float: left; width: 90%; padding: 0 5%;}
+	.comm-words2 form {margin: 10px 20%; width: 60%; float: left;}
+
+	ul.partners {float: left; width: 50%; margin: 5px 25%; padding: 0;}
+	ul.parnters li {float: left; width: 50%; margin: 0; padding: 0;}
+	ul.partners li img {float: left; width: 48%; margin: 0 1%; height: auto;}
+
+
+
+}
