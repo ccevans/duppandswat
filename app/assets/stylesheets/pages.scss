@@ -13,14 +13,17 @@ body {margin: 0; padding: 0;}
 .header-section h1 {color: #fff; font-size: 36px; line-height: 36px; text-align: center;}
 .header-section span {width: 100%; float: left; color: #fff; font-size: 14px; line-height: 16px; text-align: center; margin: 5px 0;}
 .main-section iframe.commercials {float: left; width: 60%; margin: 0 20%; height: 400px;}
-.comm-words {float: left; width: 60%; padding: 0 20%; text-align: center; font-size: 18px; line-height: 24px; color: #fff;}
+.comm-words {float: left; width: 60%; padding: 5px 20%; text-align: center; font-size: 18px; line-height: 24px; color: #fff;}
 .comm-words2 {float: left; width: 60%; padding: 0 20%; font-size: 18px; line-height: 20px; color: #fff;}
 .insta-box {float: left; width: 60%; padding: 0 20%;}
 .comm-words2 form {margin: 20px 20%; width: 60%; float: left;}
+.comm-words h1 {font-size: 24px; line-height: 26px;}
 
 ul.partners {float: left; width: 30%; margin: 10px 35%; padding: 0;}
 ul.parnters li {float: left; width: 50%; margin: 0; padding: 0;}
 ul.partners li img {float: left; width: 48%; margin: 0 1%; height: auto;}
+
+.studioimage {float: left; width: 33.3%;}
 
 .gradient {
 	background-color:rgba(223,0,24,1); 
