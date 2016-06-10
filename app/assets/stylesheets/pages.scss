@@ -46,7 +46,8 @@ ul.partners li img {float: left; width: 48%; margin: 0 1%; height: auto;}
 .design-footer {width: 15px; height: auto; }
 .footer-rights a {text-decoration: none;}
 .footer-rights a:hover {text-decoration: none;}
-.calendar-box2 {display: none;}
+.calendar-box2 {float: left; display: none; width: 100%; margin: 0; padding: 0;}
+.calendar-box {float: left; width: 100%; margin: 0; padding: 0;}
 
 .gradient {
 	background-color:rgba(223,0,24,1); 
@@ -84,7 +85,7 @@ ul.partners li img {float: left; width: 48%; margin: 0 1%; height: auto;}
 
 .sectionstudio {background-color: #000; float: left; width: 90%; height: auto; margin: 0; padding: 25px 5%; font-family: "purista-web",sans-serif;}
 .sectionstudio h1 {font-size: 24px; line-height: 24px; color: #fff;}
-.studio-map {float: left; width: 100%;}
+.studio-map {float: left; width: 100%; margin: 15px 0;}
 .studio-info {float: left; width: 100%; color: #fff; font-family: "purista-web",sans-serif; font-size: 18px; line-height: 20px;}
 .studio-info ul {list-style-type: none;}
 .info-section {float: left; text-align: center; font-size: 18px; line-height: 24px; color: #fff; margin: 20px 0;}
