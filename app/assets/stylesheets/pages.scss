@@ -7,7 +7,7 @@ body {margin: 0; padding: 0;}
 .overall-section {float: left; width: 100%; height: auto; margin: 0px 0; padding: 0; font-size: 0; line-height: 0;}
 .header-section {float: left; width: 100%; height: auto; margin: 50px 0 0 0; padding: 0; font-family: "purista-web",sans-serif;}
 .main-section {float: left; width: 100%; height: auto; margin: 25px 0; padding: 0; font-family: "purista-web",sans-serif;}
-.main2-section {float: left; width: 100%; height: auto; margin: 10px 0; padding: 0; font-family: "purista-web",sans-serif;}
+.main2-section {float: left; width: 100%; height: auto; margin: 10px 0; padding: 50px 0; font-family: "purista-web",sans-serif;}
 
 .headerimage {float: left; width: 60%; margin: 0 20%;}
 .header-section h1 {color: #fff; font-size: 36px; line-height: 36px; text-align: center;}
@@ -24,6 +24,16 @@ ul.parnters li {float: left; width: 50%; margin: 0; padding: 0;}
 ul.partners li img {float: left; width: 48%; margin: 0 1%; height: auto;}
 
 .studioimage {float: left; width: 33.3%;}
+
+.sectionstudio {background-color: #000; float: left; width: 60%; height: auto; margin: 0; padding: 50px 20%; font-family: "purista-web",sans-serif;}
+.sectionstudio h1 {font-size: 36px; line-height: 36px; color: #fff;}
+.studio-map {float: left; width: 50%;}
+.studio-info {float: left; width: 50%; color: #fff; font-family: "purista-web",sans-serif; font-size: 18px; line-height: 20px;}
+.studio-info ul {list-style-type: none;}
+.info-section {float: left; text-align: center; font-size: 18px; line-height: 24px; color: #fff;}
+.sectioncalendar {background-color: #fff; float: left; width: 60%; height: auto; margin: 0; padding: 50px 20%; font-family: "purista-web",sans-serif;}
+.sectioncalendar h1 {font-size: 36px; line-height: 36px; color: #000;}
+.calendar-info {float: left; text-align: center; font-size: 18px; line-height: 24px; color: #000; margin: 15px 0;}
 
 .gradient {
 	background-color:rgba(223,0,24,1); 
